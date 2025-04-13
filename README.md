@@ -12,6 +12,7 @@ The project provides detailed instructions for installing essential software too
 ...Visual Studio Code (VS Code) is a powerful, lightweight, and versatile code editor developed by Microsoft, designed for a wide range of programming languages and development tasks. Available across Windows, macOS, and Linux, it offers features like IntelliSense for smart code completion, integrated Git support for seamless version control, and an in-built terminal for command-line operations. Its vast extension marketplace allows users to customize the editor with additional tools, debuggers, and themes, making it adaptable to various development workflows. VS Code is widely praised for its speed, flexibility, and robust features, making it a top choice among developers.
 
 ### Windows installation
+![Visual studio code](img/vscode-webpage.png)
 https://darey-io-pbl-projects-images.s3.eu-west-2.amazonaws.com/tech-environment-setup/vscode-webpage.png
 
 ...On the web page, click "Download for Windows," if you are using windows system.
