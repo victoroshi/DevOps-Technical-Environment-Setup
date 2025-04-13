@@ -13,6 +13,7 @@ The project provides detailed instructions for installing essential software too
 
 ### Windows installation
 ![Visual studio code](img/vscode-webpage.png)
+
 https://darey-io-pbl-projects-images.s3.eu-west-2.amazonaws.com/tech-environment-setup/vscode-webpage.png
 
 ...On the web page, click "Download for Windows," if you are using windows system.
