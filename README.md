@@ -45,7 +45,9 @@ If your installation is successful, it will have the following look after launch
 ![Git batch](img/Gitbash.png)
 
 ## Launch Git
- Open Terminal and type git --version and press Enter to verify that Git has been installed.
+Open Terminal and type git --version and press Enter to verify that Git has been installed.
+If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
+![Git batch successfull installation and version confirmed](img/Git-bash-macOS.png)
 
  ## Virtual Box
  ### 1. Windows Instalation
@@ -81,24 +83,40 @@ Download Ubuntu Desktop ISO file: https://ubuntu.com/download/desktop
 ## Creating Github and AWS Account
  Open your web browser and go to https://github.com/
  ![GitHub Signup Page](img/Github-sign-up.png)
- ... On the GitHub homepage, you will find a "Sign up" button. Click on it.  Fill out the required information on the Sign up page. This typically includes your username, email address, and password. Choose a strong and secure password.
+ 
+ On the GitHub homepage, you will find a "Sign up" button. Click on it.  Fill out the required information on the Sign up page. This typically includes your username, email address, and password. Choose a strong and secure password.
 *After entering your information, GitHub will ask you to verify your email address. Check your email inbox for a verification message from GitHub and click on the verification link.*
-..GitHub may ask you to complete a CAPTCHA to ensure that you are not a robot. Follow the instructions to prove you're a human.
-... GitHub offers free plans for public repositories and paid plans for private repositories. Choose the plan that best suits your needs. For beginners, the free plan is usually sufficient.
+
+GitHub may ask you to complete a CAPTCHA to ensure that you are not a robot. Follow the instructions to prove you're a human.
+
+GitHub offers free plans for public repositories and paid plans for private repositories. Choose the plan that best suits your needs. For beginners, the free plan is usually sufficient.
 
 _Once you've completed the above steps, you should be redirected to your new GitHub account. Congratulations! You now have a GitHub account._
+
+$### Explore GitHub
+Take some time to explore the GitHub platform. Familiarize yourself with the interface, and you can start by creating a new repository if you have a project in mind.
+![GitHub Page after account creation](img/Github-page.png)
 
 ## Amazon Web Services (AWS) Account
 Go to the AWS Free Tier page at https://aws.amazon.com/free/  to learn about the services available in the free tier and to start the signup process.
 
 ![AWS Free tier](img/AWS-account.png)
-..On the AWS Free Tier page, click on the "Create an AWS Account" button. Sign in or 
+
+On the AWS Free Tier page, click on the "Create an AWS Account" button. Sign in or 
 If you already have an Amazon account, you can sign in. If not, you'll need to create a new one.
-... Fill in the necessary account information, including your contact information and payment details. Note that you'll be required to provide valid credit card information, even though you won't be charged unless you exceed the free tier limits. You will be require to have a minimum of 1 usd in your card
+
+Fill in the necessary account information, including your contact information and payment details. Note that you'll be required to provide valid credit card information, even though you won't be charged unless you exceed the free tier limits. You will be require to have a minimum of 1 usd in your card
+
 _ Follow the steps to verify your identity. This may involve receiving a phone call or entering a verification code sent to your email or phone._
 
  AWS offers a free support plan, but you can choose to upgrade to a paid plan if you prefer. For the free tier, the basic support plan is usually sufficient.  As part of the account setup, you'll need to enter valid credit card information. AWS uses this for identity verification and to prevent abuse of the free tier resources.
+
  ** mReview the information you provided, read the terms and conditions, and confirm your agreement.**
-...After receiving confirmation, log in to the AWS Management Console using your new account credentials.  AWS offers a variety of services within the free tier, including EC2 (Elastic Compute Cloud), S3 (Simple Storage Service), and more. Make sure to explore and understand the limitations of each service within the free tier.
+After receiving confirmation, log in to the AWS Management Console using your new account credentials.  
+
+### Explore the AWS Free Tier Services
+AWS offers a variety of services within the free tier, including EC2 (Elastic Compute Cloud), S3 (Simple Storage Service), and more. Make sure to explore and understand the limitations of each service within the free tier.
 
 ![AWS Login Page](img/AWS-login-page.png)
+
+![AWS Console page](img/AWS-console.png)
