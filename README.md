@@ -111,7 +111,7 @@ _ Follow the steps to verify your identity. This may involve receiving a phone c
 
  AWS offers a free support plan, but you can choose to upgrade to a paid plan if you prefer. For the free tier, the basic support plan is usually sufficient.  As part of the account setup, you'll need to enter valid credit card information. AWS uses this for identity verification and to prevent abuse of the free tier resources.
 
- ** mReview the information you provided, read the terms and conditions, and confirm your agreement.**
+ **mReview the information you provided, read the terms and conditions, and confirm your agreement.**
 After receiving confirmation, log in to the AWS Management Console using your new account credentials.  
 
 ### Explore the AWS Free Tier Services
