@@ -47,7 +47,8 @@ If your installation is successful, it will have the following look after launch
 ## Launch Git
 Open Terminal and type git --version on the CLI and press Enter to verify that Git has been installed.
 If your installation is successful, it will have the following look after launching: It might be slightly different, but does not matter.
-![Git batch successfull installation and version confirmed](img/git-version from CLI.PNG)
+
+![Git Version from CLI](img/git-version-from-CLI.PNG)
 
  ## Virtual Box
  ### 1. Windows Instalation
